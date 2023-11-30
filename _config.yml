@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhenyi Zhang (张真一)"
-  avatar           : <img src="avatar.png" width="40%" height="40%">
+  avatar           : "avatar.png"
   bio              : "Shanghai, China"
   location         : "St. Louis, MO"
   employer         :
