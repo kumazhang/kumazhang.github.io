@@ -1,7 +1,7 @@
 ---
 title: "Calculus 2"
 collection: teaching
-type: "Undergraduate course"
+type: "Assistant Instructor"
 #permalink: /teaching/2014-spring-teaching-1
 venue: "Washington University in St. Louis, Department of mathematics"
 date: 2022-09-01
