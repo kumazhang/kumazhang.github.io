@@ -1,5 +1,14 @@
 ---
-title: "Math 350: Dynamical systems and chaos", "Math 450"
+title: "Math 350: Dynamical systems and chaos"
+collection: grading
+#type: "Workshop"
+#permalink: /teaching/2015-spring-teaching-1
+venue: "Washington University in St. Louis, Department of mathematics"
+date: Spring 2023
+#location: "City, Country"
+---
+---
+title: "Math 350: Dynamical systems and chaos"
 collection: grading
 #type: "Workshop"
 #permalink: /teaching/2015-spring-teaching-1
