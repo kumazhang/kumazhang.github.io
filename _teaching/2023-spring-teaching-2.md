@@ -1,5 +1,5 @@
 ---
-title: Math 350: Dynamical systems and chaos"
+title: "Math 350: Dynamical systems and chaos"
 collection: grading
 #type: "Workshop"
 #permalink: /teaching/2015-spring-teaching-1
