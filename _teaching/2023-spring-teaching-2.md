@@ -4,7 +4,7 @@ collection: grading
 #type: "Workshop"
 #permalink: /teaching/2015-spring-teaching-1
 venue: "Washington University in St. Louis, Department of mathematics"
-date: Spring 2023
+date: 2023-09-01
 #location: "City, Country"
 ---
 
