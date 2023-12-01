@@ -15,3 +15,4 @@ My current research interests are: dynamical systems, symplectic geometry and st
 Here is my [CV](https://gowustl-my.sharepoint.com/:w:/g/personal/zhang_zhenyi_wustl_edu/EQhpoHTIbwBCu_99NNBJ5jsBotxmm7aS8BR5hMGIHbjFtg?e=M7DsVp).
 
 Email: zhang dot zhenyi at wustl dot edu.
+Office:  Cupples I, Room 16M.
