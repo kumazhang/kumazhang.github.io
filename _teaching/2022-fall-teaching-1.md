@@ -4,7 +4,7 @@ collection: teaching
 #type: "Undergraduate course"
 #permalink: /teaching/2014-spring-teaching-1
 venue: "Washington University in St. Louis, Department of mathematics"
-date: Fall 2022
+date: 2022-09-01
 #location: "City, Country"
 ---
 
