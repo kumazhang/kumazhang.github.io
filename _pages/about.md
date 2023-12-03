@@ -12,7 +12,7 @@ I am a third year math PhD student at Washington University in St. Louis. My adv
 
 My current research interests are: dynamical systems, symplectic geometry and stochastic process. More precisely, I am interested in billiard system, related to some applications in mathematical physics.
 
-Here is my [CV](https://gowustl-my.sharepoint.com/:w:/g/personal/zhang_zhenyi_wustl_edu/EQhpoHTIbwBCu_99NNBJ5jsBotxmm7aS8BR5hMGIHbjFtg?e=M7DsVp).
+Here is my [CV](https://gowustl-my.sharepoint.com/personal/zhang_zhenyi_wustl_edu/Documents/Attachments/zhang_zhenyi_resume_20231130.pdf).
 
 Email: zhang dot zhenyi at wustl dot edu.
 
